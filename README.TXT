@@ -12,3 +12,9 @@ It is discussed in chapter 3.
 To use this project, create an instance of class NumberDisplay. Then inspect this 
 instance and leave the inspector window open. With the inspector window open, 
 call the object's methods, such as increment and setValue.
+
+Questions: 
+
+5. The terminal window displays: "NumberDisplay hours = new NumberDisplay(24);"
+   and once I increment the hours it shows me: "hours.increment();" the amount of times I clicked it 
+6.
