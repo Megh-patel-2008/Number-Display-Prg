@@ -17,4 +17,4 @@ Questions:
 
 5. The terminal window displays: "NumberDisplay hours = new NumberDisplay(24);"
    and once I increment the hours it shows me: "hours.increment();" the amount of times I clicked it 
-6.
+6.rvrv
