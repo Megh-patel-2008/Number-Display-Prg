@@ -31,7 +31,10 @@ Questions:
 15.The first and last one come as 'true'
 16.(a &&b)
 17.???
-18.
+18.No the it says its a single digit but if we place a limit of 1000 and set the value at 200 and then getDisplayValue it will show us 200 and not a 100
+19.No there are no changes 
+20.yes it had me surprised because the first one didn't show me anything and then the second one showed me a return string of "cat39"
+
 
 
 
